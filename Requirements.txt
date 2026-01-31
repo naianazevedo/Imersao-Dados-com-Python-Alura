@@ -1,6 +1,3 @@
-#Bibliotecas
-#Bibliotecas que serão utilizadas no código
-
-pandas==2.2.3 # Biblioteca para manipulação e análise de dados
-streamlit==1.44.1 # Biblioteca para criação de aplicações web interativas
-plotly==5.24.1 # Biblioteca para criação de gráficos interativos
+pandas==2.2.3
+streamlit==1.44.1
+plotly==5.24.1
