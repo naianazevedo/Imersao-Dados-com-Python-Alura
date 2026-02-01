@@ -1,3 +1,3 @@
 # Imersao-Dados-com-Python-Alura
-I am currently pursuing a degree in Computer Science, and in order to strengthen my confidence and broaden my knowledge, I have chose to engage with the learning opportunities offered by Alura.
+Atualmente, estou cursando Ciência da Computação e, para fortalecer minha confiança e ampliar meus conhecimentos, optei por participar das oportunidades de aprendizado oferecidas pela Alura.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imersao-dados-with-python-alura.streamlit.app/)
